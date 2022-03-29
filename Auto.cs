@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace AUTO_OOP2
-{
+{//s
     internal class Auto
     {
         private string znacka;
